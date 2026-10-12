@@ -10,7 +10,10 @@
     "needs": "需 yt、網路搜尋；先準備比較看板",
     "files": 2,
     "size": "4 KB",
-    "sha256": "79672e7811c1b22bbf82d035f85cec5a35d56acf3b093d622462e4f8f3b31af2"
+    "sha256": "79672e7811c1b22bbf82d035f85cec5a35d56acf3b093d622462e4f8f3b31af2",
+    "createdAt": "2026-08-29T20:45:13+08:00",
+    "createdDate": "2026-08-29",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "case",
@@ -23,7 +26,10 @@
     "needs": "需圖片生成工具",
     "files": 2,
     "size": "3 KB",
-    "sha256": "b466a5f95780a057ed2ca4b3bdeac8e2e0ae7412e937a7a877d8b028e509ad95"
+    "sha256": "b466a5f95780a057ed2ca4b3bdeac8e2e0ae7412e937a7a877d8b028e509ad95",
+    "createdAt": "2026-07-25T22:55:49+08:00",
+    "createdDate": "2026-07-25",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "code",
@@ -36,7 +42,10 @@
     "needs": "需 Python；執行時使用 Google Colab",
     "files": 2,
     "size": "3 KB",
-    "sha256": "fec64137f908b8dc88884687379a877748b6656a4f166d1077d41f9eb706807e"
+    "sha256": "fec64137f908b8dc88884687379a877748b6656a4f166d1077d41f9eb706807e",
+    "createdAt": "2026-07-25T22:13:27+08:00",
+    "createdDate": "2026-07-25",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "demo_ann",
@@ -49,7 +58,10 @@
     "needs": "需圖片生成工具；已附角色與版型",
     "files": 5,
     "size": "2.0 MB",
-    "sha256": "35f301a767c684b8d3582f3333ef8f8c431383e73003d36a920f8f216a71f35e"
+    "sha256": "35f301a767c684b8d3582f3333ef8f8c431383e73003d36a920f8f216a71f35e",
+    "createdAt": "2026-09-29T11:27:39+08:00",
+    "createdDate": "2026-09-29",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "esp",
@@ -62,7 +74,10 @@
     "needs": "需圖片生成工具",
     "files": 2,
     "size": "726 KB",
-    "sha256": "df260c43ee1b261e7f977796b626cf2528193780c7793733a022d6d40625e087"
+    "sha256": "df260c43ee1b261e7f977796b626cf2528193780c7793733a022d6d40625e087",
+    "createdAt": "2026-10-02T21:44:38+08:00",
+    "createdDate": "2026-10-02",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "example",
@@ -75,7 +90,10 @@
     "needs": "需圖片生成工具",
     "files": 2,
     "size": "4 KB",
-    "sha256": "44a9219885815c5a60aad83ab676fab9a3643dfa827a70b4ae89a72117b3b26e"
+    "sha256": "44a9219885815c5a60aad83ab676fab9a3643dfa827a70b4ae89a72117b3b26e",
+    "createdAt": "2026-07-25T23:19:57+08:00",
+    "createdDate": "2026-07-25",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "figlab",
@@ -88,7 +106,10 @@
     "needs": "需圖片生成與簡報製作工具；已附科學圖風格參考",
     "files": 6,
     "size": "343 KB",
-    "sha256": "2b1464f3e478447fdadbbb2cc9d20f3eea8f5d657fd48442062e3b9c40f96a89"
+    "sha256": "2b1464f3e478447fdadbbb2cc9d20f3eea8f5d657fd48442062e3b9c40f96a89",
+    "createdAt": "2026-10-12T10:15:46+08:00",
+    "createdDate": "2026-10-12",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "game",
@@ -101,7 +122,10 @@
     "needs": "需網站製作與發布工具",
     "files": 2,
     "size": "4 KB",
-    "sha256": "cc7572edd966c4e700feb4f5149bc815ed938174b841105efad1cd38a4a2defb"
+    "sha256": "cc7572edd966c4e700feb4f5149bc815ed938174b841105efad1cd38a4a2defb",
+    "createdAt": "2026-08-12T15:32:23+08:00",
+    "createdDate": "2026-08-12",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "genslid",
@@ -114,7 +138,10 @@
     "needs": "需圖片生成工具；已附參考圖",
     "files": 4,
     "size": "403 KB",
-    "sha256": "ca55e2c3dc10d99df1c99092310290e723104e3cd5435a70f57b4ec3440693c8"
+    "sha256": "ca55e2c3dc10d99df1c99092310290e723104e3cd5435a70f57b4ec3440693c8",
+    "createdAt": "2026-09-05T16:52:40+08:00",
+    "createdDate": "2026-09-05",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "interactive-course-presentation-designer",
@@ -127,7 +154,10 @@
     "needs": "需簡報製作工具",
     "files": 2,
     "size": "3 KB",
-    "sha256": "4a9af6896e0e4fb75252a2d4730e5d21092cbdbcb65e812c3440c16a23211ce2"
+    "sha256": "4a9af6896e0e4fb75252a2d4730e5d21092cbdbcb65e812c3440c16a23211ce2",
+    "createdAt": "2026-06-10T20:19:56+08:00",
+    "createdDate": "2026-06-10",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "movie",
@@ -140,7 +170,10 @@
     "needs": "需圖片生成工具與影片編碼工具；已附風格參考與動作製作說明",
     "files": 4,
     "size": "124 KB",
-    "sha256": "9fc89776bf03acc5164ce3c4834600b3d4c06537c6c220f7a2d5513284772c84"
+    "sha256": "9fc89776bf03acc5164ce3c4834600b3d4c06537c6c220f7a2d5513284772c84",
+    "createdAt": "2026-10-12T19:39:23+08:00",
+    "createdDate": "2026-10-12",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "phd-thesis-editor",
@@ -153,7 +186,10 @@
     "needs": "文件格式化時需文件工具",
     "files": 2,
     "size": "5 KB",
-    "sha256": "5a1377e4b591b3edb7c47b60be8a7ddcce2659e344fe5542914b9fe11a001eb8"
+    "sha256": "5a1377e4b591b3edb7c47b60be8a7ddcce2659e344fe5542914b9fe11a001eb8",
+    "createdAt": "2026-05-23T09:46:41+08:00",
+    "createdDate": "2026-05-23",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "pic",
@@ -166,7 +202,10 @@
     "needs": "需圖片生成工具",
     "files": 2,
     "size": "3 KB",
-    "sha256": "3a25f22f3f0db9dc6eb712835bac2a09f28ba5d4a937977bcf545e3e1bd9a596"
+    "sha256": "3a25f22f3f0db9dc6eb712835bac2a09f28ba5d4a937977bcf545e3e1bd9a596",
+    "createdAt": "2026-07-25T22:13:27+08:00",
+    "createdDate": "2026-07-25",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "professional-phd-thesis-writer",
@@ -179,7 +218,10 @@
     "needs": "文件格式化時需文件工具",
     "files": 2,
     "size": "5 KB",
-    "sha256": "388ab4b90d59e06aaee73b4f92b5c0a3c0fb6d4c6d7bfa93c4c734853276a0ec"
+    "sha256": "388ab4b90d59e06aaee73b4f92b5c0a3c0fb6d4c6d7bfa93c4c734853276a0ec",
+    "createdAt": "2026-05-24T13:17:52+08:00",
+    "createdDate": "2026-05-24",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "professor-course-generator",
@@ -192,7 +234,10 @@
     "needs": "需 Python、文件讀取與簡報製作工具",
     "files": 8,
     "size": "12 KB",
-    "sha256": "4ac3b1d2fe6ddf9c72dd040e36c679f389de30bf89a7e83d4b1d3d789ad8dbda"
+    "sha256": "4ac3b1d2fe6ddf9c72dd040e36c679f389de30bf89a7e83d4b1d3d789ad8dbda",
+    "createdAt": "2026-07-15T22:35:33+08:00",
+    "createdDate": "2026-07-15",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "qz",
@@ -205,7 +250,10 @@
     "needs": "需圖片生成工具",
     "files": 2,
     "size": "3 KB",
-    "sha256": "2d677a83768904d33ee57dba1e08d69875f9a1190b98a6e986706dcdaff994c2"
+    "sha256": "2d677a83768904d33ee57dba1e08d69875f9a1190b98a6e986706dcdaff994c2",
+    "createdAt": "2026-07-27T21:34:07+08:00",
+    "createdDate": "2026-07-27",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "sea",
@@ -218,7 +266,10 @@
     "needs": "需網路搜尋與試算表製作工具",
     "files": 2,
     "size": "4 KB",
-    "sha256": "afbc1e5d1be2a14eb8aa68f05dcd82eff80dad831321554c73ab5bcc378e125a"
+    "sha256": "afbc1e5d1be2a14eb8aa68f05dcd82eff80dad831321554c73ab5bcc378e125a",
+    "createdAt": "2026-09-28T17:07:47+08:00",
+    "createdDate": "2026-09-28",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "soil-html-deck",
@@ -231,7 +282,10 @@
     "needs": "需圖片生成工具；可用瀏覽器播放",
     "files": 10,
     "size": "15 KB",
-    "sha256": "1b2290cce8e137b93b65f42216bfd5a684ee4931da9b27e831e93f27fc0b7a64"
+    "sha256": "1b2290cce8e137b93b65f42216bfd5a684ee4931da9b27e831e93f27fc0b7a64",
+    "createdAt": "2026-07-11T19:58:50+08:00",
+    "createdDate": "2026-07-11",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "soil-image-deck",
@@ -244,7 +298,10 @@
     "needs": "需圖片生成與簡報製作工具",
     "files": 13,
     "size": "18 KB",
-    "sha256": "b6b2415a365e36267616a011685aa40e763088e20cbabbc470c0aafa95d6f91d"
+    "sha256": "b6b2415a365e36267616a011685aa40e763088e20cbabbc470c0aafa95d6f91d",
+    "createdAt": "2026-07-11T19:58:50+08:00",
+    "createdDate": "2026-07-11",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "soil-teaching-deck",
@@ -257,7 +314,10 @@
     "needs": "需圖片生成與簡報工具；部分範例引用外部環境路徑，需在新電腦調整",
     "files": 1,
     "size": "20 KB",
-    "sha256": "7e9837c66ac72178510b57a945ea09d99b6f0fb582afc87d272220af9b91e1db"
+    "sha256": "7e9837c66ac72178510b57a945ea09d99b6f0fb582afc87d272220af9b91e1db",
+    "createdAt": "2026-07-11T19:58:50+08:00",
+    "createdDate": "2026-07-11",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "wenn",
@@ -270,7 +330,10 @@
     "needs": "需圖片生成工具；已附角色參考圖",
     "files": 5,
     "size": "2.1 MB",
-    "sha256": "a336e0727fd9c78929dda6d6f0b8444b6a6672837f7b36a7d89506e764ea1a70"
+    "sha256": "a336e0727fd9c78929dda6d6f0b8444b6a6672837f7b36a7d89506e764ea1a70",
+    "createdAt": "2026-09-13T16:31:15+08:00",
+    "createdDate": "2026-09-13",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   },
   {
     "name": "yt",
@@ -283,6 +346,9 @@
     "needs": "需網路搜尋；公開數據可能隱藏或無法取得",
     "files": 2,
     "size": "3 KB",
-    "sha256": "046547c074e6690a003d681f260f6d5b08d792c69a9581e138cc0dc1ccfb22c3"
+    "sha256": "046547c074e6690a003d681f260f6d5b08d792c69a9581e138cc0dc1ccfb22c3",
+    "createdAt": "2026-08-29T11:06:34+08:00",
+    "createdDate": "2026-08-29",
+    "createdAtSource": "來源電腦 SKILL.md 建立時間"
   }
 ]
