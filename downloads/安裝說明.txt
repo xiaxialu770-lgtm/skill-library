@@ -1,0 +1,13 @@
+﻿Skill 跨電腦安裝說明
+
+1. 下載單一 ZIP 或全部 skill ZIP，解壓縮。
+2. 保留每個 skill 的完整資料夾：SKILL.md、assets、scripts、references 等。
+3. 複製 skill 資料夾到目標電腦的個人 skills 目錄。此電腦使用 ~/.codex/skills；若目標版本採用 ~/.agents/skills，依其官方文件放置。自訂 CODEX_HOME 請使用對應的 skills 目錄。
+4. 若同名資料夾已存在，先備份並確認版本再取代。
+5. 開啟新的 Codex 對話，用「使用 <skill 名稱>」加上你的任務驗證。
+
+下載不等於自動安裝。瀏覽器不能直接寫入另一台電腦的技能目錄。
+工具、外掛、帳號授權、Python 套件與登入資訊不會隨技能移轉，請在新電腦另行設定。
+soil-teaching-deck 含外部環境路徑範例，需依新環境調整；原檔保留未修改。
+本工具庫包含 21 個個人 skill，不含系統或外掛附帶 skill。快照日期：2026-10-12。
+官方文件：https://learn.chatgpt.com/docs/build-skills
