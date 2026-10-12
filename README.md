@@ -4,6 +4,8 @@
 
 ## 使用網站
 
+直接開啟公開網頁：https://xiaxialu770-lgtm.github.io/skill-library/
+
 下載本儲存庫並解壓縮，使用瀏覽器開啟 `index.html`。頁面與下載包均可離線使用，請保留 `downloads/` 資料夾。
 
 ## 安裝 skill
@@ -22,4 +24,4 @@ Skill 包保留原始 `SKILL.md`、腳本、參考資料與圖片。外掛、工
 - `catalog.json`：技能目錄、中文說明與各包 SHA-256。
 - `downloads/`：21 個單包 ZIP、全部技能 ZIP 與安裝說明。
 
-技能快照日期：2026-10-12。此儲存庫設為私人，不啟用公開 GitHub Pages。
+技能快照日期：2026-10-12。此儲存庫公開，GitHub Pages 從 main 分支根目錄發布。
